@@ -1,0 +1,10 @@
+{
+  "/posts": {
+    "target": "http://starlord.hackerearth.com",
+    "secure": true,
+    "pathRewrite": {
+    "^/posts": ""
+  },
+    "changeOrigin": true
+  }
+}

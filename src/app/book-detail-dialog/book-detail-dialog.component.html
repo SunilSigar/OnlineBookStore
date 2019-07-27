@@ -1,0 +1,17 @@
+<h2 mat-dialog-title>Book Details</h2>
+<mat-dialog-content>
+  <p><strong>ID </strong>{{ data.bookID }}</p>
+  <p><strong>Title </strong>{{ data.title }}</p>
+  <p><strong>Author </strong>{{ data.authors }}</p>
+  <p><strong>Rating </strong>{{ data.average_rating }}</p>
+  <p><strong>Isbn </strong>{{ data.isbn }}</p>
+  <p><strong>Language </strong>{{ data.language_code }}</p>
+  <p><strong>Total Ratings </strong>{{ data.ratings_count }}</p>
+  <p><strong>Price </strong>{{ data.price }}</p>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-raised-button mat-dialog-close (click)="addToCart(data)">
+    Add to Cart
+  </button>
+  <button mat-raised-button mat-dialog-close>Back</button>
+</mat-dialog-actions>

@@ -1,0 +1,35 @@
+<!-- <mat-card>
+  <div class="header-div">
+    <p>Book Details</p>
+  </div>
+</mat-card> -->
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <!-- <span>Books Details</span> -->
+    <a
+      routerLink="/home"
+      routerLinkActive="active"
+      style="    color: white !important;
+    text-decoration: none !important;"
+      >Books Details</a
+    >
+
+    <span class="example-spacer"></span>
+    <a
+      routerLink="/cart"
+      routerLinkActive="active"
+      style="    color: white !important;
+            text-decoration: none !important;"
+    >
+      <mat-icon matBadge="{{ totalSelection }}" matBadgeColor="warn"
+        >shopping_cart</mat-icon
+      >
+      &nbsp; &nbsp;
+    </a>
+    <mat-slide-toggle
+      [checked]="isDarkTheme | async"
+      (change)="toggleDarkTheme($event.checked)"
+      >Dark theme</mat-slide-toggle
+    >
+  </mat-toolbar-row>
+</mat-toolbar>
