@@ -8,7 +8,7 @@ Sort,
 Theame,
 Cart View,
 Checkout,
-Pagination
+Pagination,
 Select Number of rows
 
 Run Instruction:
