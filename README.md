@@ -17,6 +17,13 @@ Run Instruction:
 2. ng serve
 
 Screenshots:
+1.
 ![alt text](https://raw.githubusercontent.com/SunilSigar/OnlineBookStore/master/Screenshots/Screenshot%202019-07-27%20at%207.41.30%20PM.png)
+2.
 ![alt text](https://raw.githubusercontent.com/SunilSigar/OnlineBookStore/master/Screenshots/Screenshot%202019-07-27%20at%207.41.43%20PM.png)
+3.
 ![alt text](https://raw.githubusercontent.com/SunilSigar/OnlineBookStore/master/Screenshots/Screenshot%202019-07-27%20at%207.42.04%20PM.png)
+4. 
+![alt text](https://raw.githubusercontent.com/SunilSigar/OnlineBookStore/master/Screenshots/Screenshot%202019-07-27%20at%207.54.14%20PM.png)
+5. 
+![alt text](https://raw.githubusercontent.com/SunilSigar/OnlineBookStore/master/Screenshots/Screenshot%202019-07-27%20at%207.55.13%20PM.png)
