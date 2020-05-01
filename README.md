@@ -1,4 +1,4 @@
-Overview:
+Overview :
 Online book store list down thousand of book with book details. You can search book, add to cart and checkout.
 
 Features:
